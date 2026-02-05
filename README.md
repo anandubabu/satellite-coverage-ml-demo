@@ -6,12 +6,9 @@ Quick ML demo predicting satellite constellation coverage from orbital parameter
 Quick ML model to predict satellite constellation coverage - replaces slow physics simulations with fast predictions.
 
 ## Run It
-```bash
-pip install numpy matplotlib scikit-learn
-python satellite_coverage_ml_demo.py
-```
 
-Or open the Jupyter notebook and run all cells.
+
+ open the Jupyter notebook and run all cells.
 
 Generates 100 training samples, trains a model, tests on 10 samples, creates plots.
 
